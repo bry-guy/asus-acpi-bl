@@ -1,2 +1,1 @@
-event=video/brightnessup BRTUP 00000086 00000000
-action=/etc/acpi/actions/bl-up.sh
+/etc/acpi/events/bl-up

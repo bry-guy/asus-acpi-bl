@@ -1,2 +1,1 @@
-event=video/brightnessdown BRTDN 00000087 00000000
-action=/etc/acpi/actions/bl-down.sh
+/etc/acpi/events/bl-down

@@ -1,0 +1,2 @@
+Contributor: https://unix.stackexchange.com/users/169049/try431
+Source: https://unix.stackexchange.com/questions/322814/xf86monbrightnessup-xf86monbrightnessdown-special-keys-not-working/427572#427572

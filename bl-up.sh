@@ -1,1 +1,0 @@
-/etc/acpi/actions/bl-up.sh
